@@ -6,3 +6,5 @@ Bachelor of Science in Information Technology
 # Certifications
 
 # Skillsets
+Soft Skills
+Technical Skills
